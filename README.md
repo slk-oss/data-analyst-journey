@@ -16,8 +16,8 @@ Topics covered:
 ## Stack
 - PostgreSQL
 - DBeaver
-- Python (coming soon)
-- Tableau (coming soon)
+- Python 
+- Tableau 
 
 ## Projects
 
